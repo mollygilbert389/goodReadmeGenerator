@@ -10,7 +10,7 @@
 ## Description
 This application generates readme files for projects. 
 ## Installation
-npm inquierer
+npm inquirer
 ## Usage
 git clone, npm i, node index.js
 ## License

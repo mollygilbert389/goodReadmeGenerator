@@ -1,0 +1,22 @@
+{
+  "name": "goodreadmegenerator",
+  "version": "1.0.0",
+  "description": "An app to generate readme files for projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mollygilbert389/goodReadmeGenerator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mollygilbert389/goodReadmeGenerator/issues"
+  },
+  "homepage": "https://github.com/mollygilbert389/goodReadmeGenerator#readme",
+  "dependencies": {
+    "inquirer": "^7.2.0"
+  }
+}
